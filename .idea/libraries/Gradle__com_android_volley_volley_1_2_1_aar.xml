@@ -4,9 +4,7 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0ca8882ca5b5551ceec04eaa69bc550c/transformed/jetified-volley-1.2.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee00865fc8fbee7850cd6b45b0c40790/transformed/jetified-volley-1.2.1/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0ca8882ca5b5551ceec04eaa69bc550c/transformed/jetified-volley-1.2.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ca8882ca5b5551ceec04eaa69bc550c/transformed/jetified-volley-1.2.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0ca8882ca5b5551ceec04eaa69bc550c/transformed/jetified-volley-1.2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
